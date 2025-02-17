@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Johannes but you can call me Joe or Jones
+- 👋 Hi, I'm Johannes but you can call me Joe
 - 👀 I’m interested in food!! and of course the exciting world of data analytics
 - 🌱 I’m currently learning mainly on Python, Tableau and the SeQueL subjects
 - 💞️ I’m looking to collaborate on any data analytic project, do let me know if you are interested to collaborate :)
